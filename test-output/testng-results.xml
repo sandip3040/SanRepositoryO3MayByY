@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96422" started-at="2020-04-30T14:54:39 IST" finished-at="2020-04-30T14:56:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96422" started-at="2020-04-30T14:54:39 IST" finished-at="2020-04-30T14:56:16 IST">
+      <class name="Academy.ValidateNavgationBar">
+        <test-method status="PASS" signature="NavigationBarValidation()[pri:0, instance:Academy.ValidateNavgationBar@23b78d]" name="NavigationBarValidation" duration-ms="91674" started-at="2020-04-30T14:54:40 IST" finished-at="2020-04-30T14:56:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationBarValidation -->
+        <test-method status="PASS" signature="NavigationBarValidation1()[pri:0, instance:Academy.ValidateNavgationBar@23b78d]" name="NavigationBarValidation1" duration-ms="16" started-at="2020-04-30T14:56:16 IST" finished-at="2020-04-30T14:56:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigationBarValidation1 -->
+      </class> <!-- Academy.ValidateNavgationBar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
